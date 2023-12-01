@@ -28,11 +28,12 @@ weight: https://drive.google.com/drive/folders/1jCbEYdOGjJBSGKQyGiYpIyIvRU8bhxfX
 
 ![圖片](https://github.com/YeeHaoSu/Anomaly-Detection-and-Segmentation-Yolo-V5/assets/90921571/229a77f1-f541-4cf2-9407-34fe4bd56f10)
 
+![圖片](https://github.com/YeeHaoSu/Anomaly-Detection-and-Segmentation-Yolo-V5/assets/90921571/9218f12e-92fd-4bf4-9e7d-1adf9b2ecc3a)
+
 ![圖片](https://github.com/YeeHaoSu/Anomaly-Detection-and-Segmentation-Yolo-V5/assets/90921571/67a1c77e-d2d2-4b2b-8ca9-6e4b0cb74a24)
 
 ![圖片](https://github.com/YeeHaoSu/Anomaly-Detection-and-Segmentation-Yolo-V5/assets/90921571/d758a7f6-c8a2-4459-a45c-be0483da49e5)
 
-![圖片](https://github.com/YeeHaoSu/Anomaly-Detection-and-Segmentation-Yolo-V5/assets/90921571/9218f12e-92fd-4bf4-9e7d-1adf9b2ecc3a)
 
 
 
